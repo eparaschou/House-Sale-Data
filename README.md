@@ -1,1 +1,1 @@
-# House-Sale-Data
+# King County, Washington Average House Sale Dashboard
